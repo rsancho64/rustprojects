@@ -1,4 +1,11 @@
+mod gentilezas;
+mod calculos;
+
 fn main() {
-    println!("Congrats! Your Rust program works.");
-    println!("bye.");    
+    println!("main comienza.");
+    gentilezas::saluda("ramon");    
+    let resultado = calculos::sumame(3,4);
+    println!("el resultado es {}", resultado);    
+    println!("main acaba.");    
 }
+

@@ -76,3 +76,8 @@ cd ~/rustprojects/testdir
 - [x] rustc
 - [x] rustup update          // update rust
 - [x] rustup self uninstall  // NOT NOW. 
+
+## un primer contacto comentado con el lenguaje
+
+[aqui](https://dev.to/maxwellnewage/un-pequeno-paseo-por-rust-4lko) 
+
